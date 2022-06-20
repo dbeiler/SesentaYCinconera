@@ -13,7 +13,7 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = '/mnt/j/pictures/Marina Party'
+source = '/mnt/c/Users/dave/OneDrive/Pictures/Camera imports/2022-06-19'
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
